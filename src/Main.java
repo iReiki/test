@@ -37,7 +37,7 @@ public class Main {
 		unPays.supprimerUneVille(0);
 		System.out.println(unPays.toString());
 		
-		// coucou :)
+		// salut
 	}
 
 }
