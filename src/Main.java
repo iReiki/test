@@ -32,13 +32,14 @@ public class Main {
 		unPays.ajouterUneVille(uneVille);
 		unPays.ajouterUneVille(autreVille);
 		System.out.println(unPays.toString());
+		System.out.println("mdrr jé tro modiff");
 		System.out.println(unPays.rechercherUneVille("Melun"));
-		System.out.println(unPays.rechercherUneVille("Paris"));
 		unPays.supprimerUneVille(0);
 		System.out.println(unPays.toString());
 		
 		// salut
 		// another test
+		// ALords je modifiie
 		//AH QUE COUCOU !
 	}
 
